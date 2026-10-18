@@ -1,22 +1,35 @@
-# Apex Planet Internship Project 5
+# Apex Planet Internship – Web Development Capstone
 
-## About
-This repository contains my fifth project/task completed as part of the Apex Planet internship program.
+## Overview
+
+A web development capstone project created as part of my Apex Planet internship.
+
+The project brings together multiple frontend features, including a portfolio section, a persistent To-Do List, and an interactive Product Listing system.
+
+## Features
+
+- Personal portfolio section
+- Interactive To-Do List
+- Add and delete tasks
+- Save tasks using browser localStorage
+- Product listing
+- Product category filtering
+- Product search functionality
+- Navigation between different sections
+- Responsive webpage structure
 
 ## Technologies Used
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
+- Browser localStorage
 
-## Project Work
-This project demonstrates practical web development work completed during the internship.
+## Project Structure
 
-## Key Learning
-- Frontend development
-- Web page structure and styling
-- JavaScript implementation
-- Responsive web development
-- Practical project development
-
-## Author
-Vakati Balaji Sumanth Krishna Reddy
+```text
+Apex-Planet-5/
+├── Capstone.html
+├── Screenshot 2025-06-13 183814.png
+├── Screenshot 2025-06-13 183830.png
+└── README.md
